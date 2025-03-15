@@ -1,5 +1,5 @@
 # BlackJack-Bot
-Discord blackjack bot(korean) \n
+Discord blackjack bot(korean)
 /블랙잭 배팅 할 돈 으로 게임 시작
 /무료돈 하루 한번씩 1000원 획득
 /잔액확인 사용자의 잔액 확인
